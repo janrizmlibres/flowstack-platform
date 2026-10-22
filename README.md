@@ -66,4 +66,4 @@ Thanks to Adrian Hajdin ([@adrianhajdin](https://github.com/adrianhajdin), conta
 
 ## License
 
-MIT. Released 2025 by Janriz Libres.
+MIT. Released 2025 by Janriz Libres. See [LICENSE](LICENSE).
